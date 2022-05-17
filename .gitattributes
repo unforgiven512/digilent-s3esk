@@ -1,0 +1,16 @@
+#
+# .gitattributes
+#
+
+# GENERIC #
+
+*				text=auto
+
+
+# TEXT & MARKUP #
+
+*.txt			eol=crlf
+*.md			eol=crlf diff=markdown
+*.mkdn			eol=crlf diff=markdown
+*.markdown		eol=crlf diff=markdown
+*.rst			eol=crlf
